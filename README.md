@@ -11,6 +11,9 @@
 - RNet's special ground truth finding algorithm helps us to create dataset much faster than manually creating dataset.
 - For example, we've trained RNet v0.1 with 24K train and 24K validation images. All these images are taken from 5 5 minutes long video. For each 5 minute video, it took almost 7 minutes to get train and test images. (Each video contains almost 4500 frames.)
 
-### FornaxAI's RNet can be used in self driving car, lane assisting, autonomous delivery vehicles and many more areas that requires drive assist.
+### FornaxAI's RNet can be used in
+- self driving car
+- lane assisting
+- autonomous delivery vehicles and many more areas that requires drive assist.
 
 Interested in working with us? Check out our LinkedIn account
