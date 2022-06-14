@@ -1,4 +1,4 @@
-# RNet
+# FornaxAI's RNet
 
 ### Introduction
 
