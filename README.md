@@ -16,4 +16,4 @@
 - Lane assisting
 - Autonomous delivery vehicles and many more areas that requires drive assist.
 
-Interested in working with us? Check out our LinkedIn account
+Interested in working with us? Communicate directly to our Head Developer & CEO by clicking [here](https://www.linkedin.com/in/mustafaugurbaskin/)
