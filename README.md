@@ -1,5 +1,12 @@
 # FornaxAI's RNet
 
+<div align="center">
+
+![Use this template](https://img.shields.io/badge/NEW-RNet%20v0.1%20is%20available-brightgreen)
+![fornaxai - RNet](https://img.shields.io/static/v1?label=fornaxai&message=RNet&color=blue&logo=github)
+
+</div>
+
 ### Introduction
 
 **Check out RNet v0.1's first demo [video](https://www.youtube.com/watch?v=hZ12vIpCjqM)**
