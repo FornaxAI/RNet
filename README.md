@@ -14,9 +14,11 @@
 ### Example image of RNet's predictions on road lanes
 ![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNet%20Predictions.jpg)
 
+### Training FornaxAI's RNet
+
 - RNet uses it's own special algorithm to find ground truth of given video. By using that, we don't need to specify the road lane markings manually.
 - RNet's special ground truth finding algorithm helps us to create dataset much faster than manually creating dataset.
-- For example, we've trained RNet v0.1 with 24K train and 24K validation images. All these images are taken from 5 5 minutes long video. For each 5 minute video, it took almost 7 minutes to get train and test images. (Each video contains almost 4500 frames.)
+- The must-have dataset to train RNet was developed by FornaxAI.
 
 ### FornaxAI's RNet can be used in
 - Self driving car
