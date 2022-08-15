@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![Use this template](https://img.shields.io/badge/NEW-RNet%20v0.1%20is%20available-brightgreen)
+![Use this template](https://img.shields.io/badge/NEW-RNet%20v0.2%20is%20available-brightgreen)
 ![fornaxai - RNet](https://img.shields.io/static/v1?label=fornaxai&message=RNet&color=blue&logo=github)
 
 </div>
 
 ### Introduction
 
-**Check out RNet v0.1's first demo [video](https://www.youtube.com/watch?v=hZ12vIpCjqM)**
+**Check out RNet v0.2's first demo [video](https://youtu.be/wrFE9EPmxms)**
 
 ### Example image of RNet's predictions on road lanes
 ![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNetpreds.jpg)
