@@ -12,7 +12,7 @@
 **Check out RNet v0.2's first demo [video](https://youtu.be/wrFE9EPmxms)**
 
 ### Example image of RNet's predictions on road lanes
-![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNetpreds.jpg)
+![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNet%20Predictions.jpg)
 
 - RNet uses it's own special algorithm to find ground truth of given video. By using that, we don't need to specify the road lane markings manually.
 - RNet's special ground truth finding algorithm helps us to create dataset much faster than manually creating dataset.
