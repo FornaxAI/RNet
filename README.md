@@ -21,8 +21,11 @@
 - The must-have dataset to train RNet was developed by FornaxAI.
 
 ### FornaxAI's RNet can be used in
+
 - Self driving car
 - Lane assisting
 - Autonomous delivery vehicles and many more areas that requires drive assist.
+
+### Contact & Working with us
 
 Interested in working with us? Communicate directly to our Head Developer & CEO by clicking [here](https://www.linkedin.com/in/mustafaugurbaskin/)
