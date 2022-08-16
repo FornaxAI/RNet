@@ -29,3 +29,9 @@
 ### Contact & Working with us
 
 Interested in working with us? Communicate directly to our Head Developer & CEO by clicking [here](https://www.linkedin.com/in/mustafaugurbaskin/)
+
+### Planned new features
+
+- Creating a GUI to show predictions around the car.
+- Training RNet with more data.
+- Working with companies interested in self-driving, lane assisting and autonomous delivery vehicle manufacturers.
