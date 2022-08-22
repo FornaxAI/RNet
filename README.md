@@ -11,6 +11,9 @@
 
 **Check out RNet v0.2's first demo [video](https://youtu.be/wrFE9EPmxms)**
 
+### Test FornaxAI's RNet by yourself
+Load a road image and try it yourself. Click [here](https://huggingface.co/spaces/fornaxai/RNet)
+
 ### Example image of RNet's predictions on road lanes
 ![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNet%20Predictions.jpg)
 
