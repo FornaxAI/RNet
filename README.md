@@ -9,7 +9,7 @@
 
 ### Introduction
 
-**Check out RNet v0.3's first demo [video](https://youtu.be/ti--l-MyG3U)**
+**Check out RNet v0.3's demo [video](https://youtu.be/ti--l-MyG3U)**
 
 ### Test FornaxAI's RNet by yourself
 **Load a road image and try it yourself. Click [here](https://huggingface.co/spaces/fornaxai/RNet)**
