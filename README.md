@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![Use this template](https://img.shields.io/badge/NEW-RNet%20v0.2%20is%20available-brightgreen)
+![Use this template](https://img.shields.io/badge/NEW-RNet%20v0.3%20is%20available-brightgreen)
 ![fornaxai - RNet](https://img.shields.io/static/v1?label=fornaxai&message=RNet&color=blue&logo=github)
 
 </div>
 
 ### Introduction
 
-**Check out RNet v0.2's first demo [video](https://youtu.be/wrFE9EPmxms)**
+**Check out RNet v0.3's first demo [video](https://youtu.be/ti--l-MyG3U)**
 
 ### Test FornaxAI's RNet by yourself
 **Load a road image and try it yourself. Click [here](https://huggingface.co/spaces/fornaxai/RNet)**
