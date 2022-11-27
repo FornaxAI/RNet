@@ -20,6 +20,10 @@ https://user-images.githubusercontent.com/28260462/198580417-3702aab0-9aab-4743-
 ### Example image of RNet's predictions on road lanes
 ![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNet%20Predictions.jpg)
 
+### 🆕 What's new with FornaxAI's RNet v0.3?
+- RNet trained with more data. This helps model to find road lanes better on real world examples.
+- RNet's predictions about road lanes go through a new filter. In this way, the locations of the road lanes can be determined better.
+
 ### Training FornaxAI's RNet
 
 - RNet uses it's own special algorithm to find ground truth of given video. By using that, we don't need to specify the road lane markings manually.
