@@ -32,11 +32,11 @@ https://user-images.githubusercontent.com/28260462/198580417-3702aab0-9aab-4743-
 - Lane assisting
 - Autonomous delivery vehicles and many more areas that requires drive assist.
 
-### Contact & Working with us
+### 📧 Contact & Working with us
 
 Interested in working with us? Communicate directly to our Head Developer & CEO by clicking [here](https://www.linkedin.com/in/mustafaugurbaskin/)
 
-### Planned new features
+### 🎯 Planned new features
 
 - Creating a GUI to show predictions around the car.
 - Training RNet with more data.
